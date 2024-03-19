@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Cristian Medina\\source\\repos\\contribuyentesWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A34D785-6B9C-4D9F-9538-FB43B286CF06}|contribuyentesWebAPI\\contribuyentesWebAPI.csproj|d:\\users\\cristian medina\\source\\repos\\contribuyenteswebapi\\contribuyenteswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A34D785-6B9C-4D9F-9538-FB43B286CF06}|contribuyentesWebAPI\\contribuyentesWebAPI.csproj|solutionrelative:contribuyenteswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A34D785-6B9C-4D9F-9538-FB43B286CF06}|contribuyentesWebAPI\\contribuyentesWebAPI.csproj|d:\\users\\cristian medina\\source\\repos\\contribuyenteswebapi\\contribuyenteswebapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A34D785-6B9C-4D9F-9538-FB43B286CF06}|contribuyentesWebAPI\\contribuyentesWebAPI.csproj|solutionrelative:contribuyenteswebapi\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A34D785-6B9C-4D9F-9538-FB43B286CF06}|contribuyentesWebAPI\\contribuyentesWebAPI.csproj|d:\\users\\cristian medina\\source\\repos\\contribuyenteswebapi\\contribuyenteswebapi\\models\\contribuyentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A34D785-6B9C-4D9F-9538-FB43B286CF06}|contribuyentesWebAPI\\contribuyentesWebAPI.csproj|solutionrelative:contribuyenteswebapi\\models\\contribuyentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A34D785-6B9C-4D9F-9538-FB43B286CF06}|contribuyentesWebAPI\\contribuyentesWebAPI.csproj|d:\\users\\cristian medina\\source\\repos\\contribuyenteswebapi\\contribuyenteswebapi\\contribuyenteswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A34D785-6B9C-4D9F-9538-FB43B286CF06}|contribuyentesWebAPI\\contribuyentesWebAPI.csproj|solutionrelative:contribuyenteswebapi\\contribuyenteswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Cristian Medina\\source\\repos\\contribuyentesWebAPI\\contribuyentesWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "contribuyentesWebAPI\\Program.cs",
+              "ToolTip": "D:\\Users\\Cristian Medina\\source\\repos\\contribuyentesWebAPI\\contribuyentesWebAPI\\Program.cs",
+              "RelativeToolTip": "contribuyentesWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:16:49.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbContext.cs",
+              "DocumentMoniker": "D:\\Users\\Cristian Medina\\source\\repos\\contribuyentesWebAPI\\contribuyentesWebAPI\\Models\\dbContext.cs",
+              "RelativeDocumentMoniker": "contribuyentesWebAPI\\Models\\dbContext.cs",
+              "ToolTip": "D:\\Users\\Cristian Medina\\source\\repos\\contribuyentesWebAPI\\contribuyentesWebAPI\\Models\\dbContext.cs",
+              "RelativeToolTip": "contribuyentesWebAPI\\Models\\dbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:03:46.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contribuyentes.cs",
+              "DocumentMoniker": "D:\\Users\\Cristian Medina\\source\\repos\\contribuyentesWebAPI\\contribuyentesWebAPI\\Models\\Contribuyentes.cs",
+              "RelativeDocumentMoniker": "contribuyentesWebAPI\\Models\\Contribuyentes.cs",
+              "ToolTip": "D:\\Users\\Cristian Medina\\source\\repos\\contribuyentesWebAPI\\contribuyentesWebAPI\\Models\\Contribuyentes.cs",
+              "RelativeToolTip": "contribuyentesWebAPI\\Models\\Contribuyentes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:00:58.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contribuyentesWebAPI",
+              "DocumentMoniker": "D:\\Users\\Cristian Medina\\source\\repos\\contribuyentesWebAPI\\contribuyentesWebAPI\\contribuyentesWebAPI.csproj",
+              "RelativeDocumentMoniker": "contribuyentesWebAPI\\contribuyentesWebAPI.csproj",
+              "ToolTip": "D:\\Users\\Cristian Medina\\source\\repos\\contribuyentesWebAPI\\contribuyentesWebAPI\\contribuyentesWebAPI.csproj",
+              "RelativeToolTip": "contribuyentesWebAPI\\contribuyentesWebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T20:24:23.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
